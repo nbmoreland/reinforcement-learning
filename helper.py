@@ -1,6 +1,5 @@
 # Nicholas Moreland
 # 05/02/2024
-# 1001886051
 
 
 # The AverageMeter class is used to compute and store the average and current value of a metric.

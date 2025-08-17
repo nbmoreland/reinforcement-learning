@@ -1,6 +1,5 @@
 # Nicholas Moreland
 # 05/02/2024
-# 1001886051
 
 import torch
 import torch.nn as nn
